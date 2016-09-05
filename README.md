@@ -19,9 +19,10 @@ meteor
 npm install
 meteor test --driver-package practicalmeteor:mocha
 ```
+You can view test results on http://localhost:3000
 
 ### Startup
 In /startup/server/fixtures.js you can find sample data.
 Two test users will be created:
-    1. username: Bob, password: 123456
-    2. username: John, password: 123456
+* username: Bob, password: 123456
+* username: John, password: 123456
